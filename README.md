@@ -1,0 +1,1 @@
+# Simple tRPC monorepo with NestJs and NextJs
